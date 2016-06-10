@@ -61,4 +61,4 @@ debuild -us -uc -S
 
 cd ..
 cp nlopt_2.4.2+dfsg-2.dsc nlopt-xUbuntu_16.04.dsc
-cp nlopt-xUbuntu_16.04.dsc nlopt_2.4.2+dfsg-2.debian.tar.xz ~/projects/science\:openturns/nlopt
+cp nlopt-xUbuntu_16.04.dsc nlopt_2.4.2+dfsg-2.debian.tar.gz ~/projects/science\:openturns/nlopt
